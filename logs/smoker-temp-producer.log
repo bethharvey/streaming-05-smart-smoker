@@ -1,66 +1,36 @@
-2023-09-18 20:41:58,910.smoker-temp-producer.INFO ==================================================
-2023-09-18 20:41:58,910.smoker-temp-producer.INFO Today is 2023-09-18 at 08:41 PM
-2023-09-18 20:41:58,910.smoker-temp-producer.INFO Running on: posix Darwin 22.5.0
-2023-09-18 20:41:58,910.smoker-temp-producer.INFO Python version:  3.11.2
-2023-09-18 20:41:58,910.smoker-temp-producer.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker/.venv
-2023-09-18 20:41:58,910.smoker-temp-producer.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker
-2023-09-18 20:41:58,910.smoker-temp-producer.INFO ==================================================
-2023-09-18 20:42:01,925.smoker-temp-producer.INFO Offer to monitor RabbitMQ queues.
-2023-09-18 20:42:02,184.smoker-temp-producer.INFO Skipped header row
-2023-09-18 20:42:02,185.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:20:15', '84.2') to 01-smoker
-2023-09-18 20:42:02,185.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:15', '') to 02-food-A
-2023-09-18 20:42:02,185.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:15', '') to 03-food-B
-2023-09-18 20:42:05,191.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:20:20', '84.2') to 01-smoker
-2023-09-18 20:42:05,191.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:20', '') to 02-food-A
-2023-09-18 20:42:05,192.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:20', '') to 03-food-B
-2023-09-18 20:42:08,197.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:21:10', '87.6') to 01-smoker
-2023-09-18 20:42:08,198.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:10', '') to 02-food-A
-2023-09-18 20:42:08,198.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:10', '') to 03-food-B
-2023-09-18 20:42:11,202.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:21:15', '87.6') to 01-smoker
-2023-09-18 20:42:11,202.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:15', '') to 02-food-A
-2023-09-18 20:42:11,203.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:15', '') to 03-food-B
-2023-09-18 20:42:14,208.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:22:10', '86.3') to 01-smoker
-2023-09-18 20:42:14,209.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:10', '') to 02-food-A
-2023-09-18 20:42:14,210.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:10', '') to 03-food-B
-2023-09-18 20:42:17,216.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:22:15', '86.3') to 01-smoker
-2023-09-18 20:42:17,216.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:15', '') to 02-food-A
-2023-09-18 20:42:17,217.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:15', '') to 03-food-B
-2023-09-18 20:42:20,220.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:23:10', '92.0') to 01-smoker
-2023-09-18 20:42:20,221.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:10', '') to 02-food-A
-2023-09-18 20:42:20,221.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:10', '') to 03-food-B
-2023-09-18 20:42:23,223.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:23:15', '92.0') to 01-smoker
-2023-09-18 20:42:23,224.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:15', '') to 02-food-A
-2023-09-18 20:42:23,225.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:15', '') to 03-food-B
-2023-09-18 20:42:26,231.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:24:10', '96.8') to 01-smoker
-2023-09-18 20:42:26,231.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:24:10', '') to 02-food-A
-2023-09-18 20:42:26,232.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:24:10', '') to 03-food-B
-2023-09-18 20:42:29,234.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:24:15', '96.8') to 01-smoker
-2023-09-18 20:42:29,235.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:24:15', '') to 02-food-A
-2023-09-18 20:42:29,235.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:24:15', '') to 03-food-B
-2023-09-18 20:42:32,241.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:25:05', '100.6') to 01-smoker
-2023-09-18 20:42:32,242.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:25:05', '') to 02-food-A
-2023-09-18 20:42:32,242.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:25:05', '') to 03-food-B
-2023-09-18 20:42:35,249.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:25:10', '100.9') to 01-smoker
-2023-09-18 20:42:35,249.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:25:10', '') to 02-food-A
-2023-09-18 20:42:35,250.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:25:10', '') to 03-food-B
-2023-09-18 20:42:38,256.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:25:15', '100.9') to 01-smoker
-2023-09-18 20:42:38,257.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:25:15', '') to 02-food-A
-2023-09-18 20:42:38,257.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:25:15', '') to 03-food-B
-2023-09-18 20:42:41,263.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:26:10', '104.8') to 01-smoker
-2023-09-18 20:42:41,264.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:26:10', '') to 02-food-A
-2023-09-18 20:42:41,264.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:26:10', '') to 03-food-B
-2023-09-18 20:42:44,269.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:26:15', '104.8') to 01-smoker
-2023-09-18 20:42:44,270.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:26:15', '') to 02-food-A
-2023-09-18 20:42:44,270.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:26:15', '') to 03-food-B
-2023-09-18 20:42:47,276.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:27:10', '108.2') to 01-smoker
-2023-09-18 20:42:47,276.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:27:10', '') to 02-food-A
-2023-09-18 20:42:47,277.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:27:10', '') to 03-food-B
-2023-09-18 20:42:50,282.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:27:15', '108.2') to 01-smoker
-2023-09-18 20:42:50,282.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:27:15', '') to 02-food-A
-2023-09-18 20:42:50,283.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:27:15', '') to 03-food-B
-2023-09-18 20:42:53,287.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:28:10', '111.4') to 01-smoker
-2023-09-18 20:42:53,287.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:28:10', '') to 02-food-A
-2023-09-18 20:42:53,288.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:28:10', '') to 03-food-B
-2023-09-18 20:42:56,294.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:28:15', '111.4') to 01-smoker
-2023-09-18 20:42:56,294.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:28:15', '') to 02-food-A
-2023-09-18 20:42:56,295.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:28:15', '') to 03-food-B
+2023-09-18 20:49:34,848.smoker-temp-producer.INFO ==================================================
+2023-09-18 20:49:34,848.smoker-temp-producer.INFO Today is 2023-09-18 at 08:49 PM
+2023-09-18 20:49:34,848.smoker-temp-producer.INFO Running on: posix Darwin 22.5.0
+2023-09-18 20:49:34,848.smoker-temp-producer.INFO Python version:  3.11.2
+2023-09-18 20:49:34,848.smoker-temp-producer.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker/.venv
+2023-09-18 20:49:34,848.smoker-temp-producer.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker
+2023-09-18 20:49:34,848.smoker-temp-producer.INFO ==================================================
+2023-09-18 20:49:37,219.smoker-temp-producer.INFO Offer to monitor RabbitMQ queues.
+2023-09-18 20:49:37,279.smoker-temp-producer.INFO Skipped header row
+2023-09-18 20:49:37,280.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:20:15', '84.2') to 01-smoker
+2023-09-18 20:49:37,280.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:15', '') to 02-food-A
+2023-09-18 20:49:37,281.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:15', '') to 03-food-B
+2023-09-18 20:50:07,288.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:20:20', '84.2') to 01-smoker
+2023-09-18 20:50:07,289.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:20', '') to 02-food-A
+2023-09-18 20:50:07,289.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:20:20', '') to 03-food-B
+2023-09-18 20:50:37,292.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:21:10', '87.6') to 01-smoker
+2023-09-18 20:50:37,294.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:10', '') to 02-food-A
+2023-09-18 20:50:37,294.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:10', '') to 03-food-B
+2023-09-18 20:51:07,297.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:21:15', '87.6') to 01-smoker
+2023-09-18 20:51:07,298.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:15', '') to 02-food-A
+2023-09-18 20:51:07,298.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:21:15', '') to 03-food-B
+2023-09-18 20:51:37,304.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:22:10', '86.3') to 01-smoker
+2023-09-18 20:51:37,305.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:10', '') to 02-food-A
+2023-09-18 20:51:37,305.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:10', '') to 03-food-B
+2023-09-18 20:52:07,307.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:22:15', '86.3') to 01-smoker
+2023-09-18 20:52:07,308.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:15', '') to 02-food-A
+2023-09-18 20:52:07,308.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:22:15', '') to 03-food-B
+2023-09-18 20:52:37,315.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:23:10', '92.0') to 01-smoker
+2023-09-18 20:52:37,315.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:10', '') to 02-food-A
+2023-09-18 20:52:37,316.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:10', '') to 03-food-B
+2023-09-18 20:53:07,318.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:23:15', '92.0') to 01-smoker
+2023-09-18 20:53:07,319.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:15', '') to 02-food-A
+2023-09-18 20:53:07,320.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:23:15', '') to 03-food-B
+2023-09-18 20:53:37,324.smoker-temp-producer.INFO  [x] Sent ('05/22/21 12:24:10', '96.8') to 01-smoker
+2023-09-18 20:53:37,326.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:24:10', '') to 02-food-A
+2023-09-18 20:53:37,326.smoker-temp-producer.INFO [x] Sent ('05/22/21 12:24:10', '') to 03-food-B

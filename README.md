@@ -30,7 +30,7 @@ The temperature measurements for this project are individual rows from the [smok
 
 In a terminal window, navigate to the folder containing this repo, create and activate a virtual environment, and install Pika (see above). Run the producer file by entering:
     `python3 smoker-temp-producer.py`
-Enter "y" to open the RabbitMQ queue monitor (enter "guest" as the username and password) or "n" to skip that step. The script will stream messages from one row of data every 3 seconds, and a confirmation message will be displayed in the terminal for each message. The stream will end when the entire file has been streamed or upon user interruption using CTRL+C.
+Enter "y" to open the RabbitMQ queue monitor (enter "guest" as the username and password) or "n" to skip that step. The script will stream messages from one row of data every 30 seconds, and a confirmation message will be displayed in the terminal for each message. The stream will end when the entire file has been streamed or upon user interruption using CTRL+C.
 
 The queue is deleted and redeclared when the script is started.
 
