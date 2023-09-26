@@ -1,0 +1,72 @@
+2023-09-24 18:22:47,563.smoker-consumer-ch02.INFO ==================================================
+2023-09-24 18:22:47,563.smoker-consumer-ch02.INFO Today is 2023-09-24 at 06:22 PM
+2023-09-24 18:22:47,563.smoker-consumer-ch02.INFO Running on: posix Darwin 22.5.0
+2023-09-24 18:22:47,563.smoker-consumer-ch02.INFO Python version:  3.11.2
+2023-09-24 18:22:47,563.smoker-consumer-ch02.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker/.venv
+2023-09-24 18:22:47,563.smoker-consumer-ch02.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker
+2023-09-24 18:22:47,564.smoker-consumer-ch02.INFO ==================================================
+2023-09-24 18:22:47,578.smoker-consumer-ch02.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-24 18:22:47,578.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:46:45,No temperature
+2023-09-24 18:22:47,578.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,580.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:47:10,No temperature
+2023-09-24 18:22:47,580.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,580.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:47:15,No temperature
+2023-09-24 18:22:47,580.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,580.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:47:35,37.1
+2023-09-24 18:22:47,580.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,581.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:47:40,37.1
+2023-09-24 18:22:47,581.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,581.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:47:45,No temperature
+2023-09-24 18:22:47,581.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,581.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:48:10,No temperature
+2023-09-24 18:22:47,581.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:48:15,No temperature
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:48:35,36.9
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:48:40,36.9
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:48:45,No temperature
+2023-09-24 18:22:47,582.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:49:10,No temperature
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:49:15,No temperature
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:49:35,36.9
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:49:40,36.9
+2023-09-24 18:22:47,583.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:23:12,151.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:49:45,No temperature
+2023-09-24 18:23:12,151.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:23:42,159.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:50:10,No temperature
+2023-09-24 18:23:42,159.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:24:12,167.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:50:15,No temperature
+2023-09-24 18:24:12,167.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:24:42,171.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:50:35,37.2
+2023-09-24 18:24:42,171.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:25:12,175.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:50:40,37.2
+2023-09-24 18:25:12,176.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:25:42,182.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:50:45,No temperature
+2023-09-24 18:25:42,182.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:26:12,186.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:51:10,No temperature
+2023-09-24 18:26:12,186.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:26:42,191.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:51:15,No temperature
+2023-09-24 18:26:42,192.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:27:12,196.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:51:35,37.5
+2023-09-24 18:27:12,197.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:27:42,207.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:51:40,37.5
+2023-09-24 18:27:42,207.smoker-consumer-ch02.INFO Food A Stall alert at 05/22/21 13:51:40! Food A temperature has changed less than 1 degree in 10 minutes .
+2023-09-24 18:27:42,207.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:28:12,213.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:51:45,No temperature
+2023-09-24 18:28:12,213.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:28:42,224.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:52:10,No temperature
+2023-09-24 18:28:42,224.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:29:12,232.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:52:15,No temperature
+2023-09-24 18:29:12,233.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:29:42,235.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:52:35,37.9
+2023-09-24 18:29:42,236.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:30:12,241.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:52:40,37.9
+2023-09-24 18:30:12,241.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:30:42,251.smoker-consumer-ch02.INFO  [x] Received 05/22/21 13:52:45,No temperature
+2023-09-24 18:30:42,252.smoker-consumer-ch02.INFO  [x] Processed Food A temp.
+2023-09-24 18:31:08,731.smoker-consumer-ch02.WARNING  User interrupted continuous listening process.

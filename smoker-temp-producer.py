@@ -77,6 +77,14 @@ def send_message(
                 # separate row into variables by column
                 timestamp, smoker_temp, food_1, food_2 = row
 
+                # check for valid temperature readings in row
+                if smoker_temp == '':
+                    smoker_temp = 'No temperature'
+                if food_1 == '':
+                    food_1 = 'No temperature'
+                if food_2 == '':
+                    food_2 = 'No temperature'
+
                 # define three messages
                 first_message = timestamp, smoker_temp
                 second_message = timestamp, food_1
@@ -93,7 +101,7 @@ def send_message(
                     exchange="", routing_key=first_queue_name, body=first_mess_encode
                 )
                 # print a message to the console for the user
-                logger.info(f" [x] Sent {first_message} to {first_queue_name}")
+                logger.info(f"[x] Sent {first_message} to {first_queue_name}")
                 # publish second message to second queue
                 ch.basic_publish(
                     exchange="", routing_key=second_queue_name, body=second_mess_encode
@@ -106,7 +114,7 @@ def send_message(
                 )
                 # print a message to the console for the user
                 logger.info(f"[x] Sent {third_message} to {third_queue_name}")
-                # wait 3 seconds before sending the next message to the queue
+                # wait 30 seconds before sending the next message to the queue
                 time.sleep(30)
 
     except pika.exceptions.AMQPConnectionError as e:

@@ -24,7 +24,7 @@ env/
 # NEVER commit secrets. It's a security risk.
 # .env is often used to hold environment variables and secrets.
 .env  
-
+.env.toml
 # ============================================================
 # Python Artifacts
 # ============================================================

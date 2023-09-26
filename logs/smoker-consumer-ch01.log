@@ -1,0 +1,79 @@
+2023-09-25 21:40:22,287.smoker-consumer-ch01.INFO ==================================================
+2023-09-25 21:40:22,288.smoker-consumer-ch01.INFO Today is 2023-09-25 at 09:40 PM
+2023-09-25 21:40:22,288.smoker-consumer-ch01.INFO Running on: posix Darwin 22.5.0
+2023-09-25 21:40:22,288.smoker-consumer-ch01.INFO Python version:  3.11.2
+2023-09-25 21:40:22,288.smoker-consumer-ch01.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker/.venv
+2023-09-25 21:40:22,288.smoker-consumer-ch01.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 5/streaming-05-smart-smoker
+2023-09-25 21:40:22,288.smoker-consumer-ch01.INFO ==================================================
+2023-09-25 21:40:22,298.smoker-consumer-ch01.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-25 21:40:22,298.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:20:15,84.2
+2023-09-25 21:40:22,298.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:22,298.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:20:20,84.2
+2023-09-25 21:40:22,298.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:24,444.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:21:10,87.6
+2023-09-25 21:40:24,444.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:27,449.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:21:15,87.6
+2023-09-25 21:40:27,449.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:30,455.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:22:10,86.3
+2023-09-25 21:40:30,455.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:33,462.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:22:15,86.3
+2023-09-25 21:40:33,462.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:36,466.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:23:10,92.0
+2023-09-25 21:40:36,466.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:39,468.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:23:15,92.0
+2023-09-25 21:40:39,468.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:42,475.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:24:10,96.8
+2023-09-25 21:40:42,475.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:45,482.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:24:15,96.8
+2023-09-25 21:40:45,482.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:48,488.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:25:05,100.6
+2023-09-25 21:40:48,489.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:51,496.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:25:10,100.9
+2023-09-25 21:40:51,496.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:54,503.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:25:15,100.9
+2023-09-25 21:40:54,503.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:40:57,510.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:26:10,104.8
+2023-09-25 21:40:57,510.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:00,517.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:26:15,104.8
+2023-09-25 21:41:00,517.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:03,524.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:27:10,108.2
+2023-09-25 21:41:03,524.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:06,528.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:27:15,108.2
+2023-09-25 21:41:06,529.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:09,535.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:28:10,111.4
+2023-09-25 21:41:09,536.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:12,542.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:28:15,111.4
+2023-09-25 21:41:12,543.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:15,549.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:29:10,114.2
+2023-09-25 21:41:15,549.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:18,555.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:29:15,114.2
+2023-09-25 21:41:18,555.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:21,558.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:30:10,116.9
+2023-09-25 21:41:21,558.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:24,564.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:30:15,116.9
+2023-09-25 21:41:24,565.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:27,572.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:31:10,119.4
+2023-09-25 21:41:27,572.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:30,579.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:31:15,119.4
+2023-09-25 21:41:30,579.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:33,582.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:32:10,120.1
+2023-09-25 21:41:33,583.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:36,587.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:32:15,120.1
+2023-09-25 21:41:36,587.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:39,594.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:33:10,106.2
+2023-09-25 21:41:39,594.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:42,598.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:33:15,106.2
+2023-09-25 21:41:42,598.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:45,604.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:34:10,103.5
+2023-09-25 21:41:45,604.smoker-consumer-ch01.INFO Smoker alert at 05/22/21 12:34:10! Smoker temperature has dropped more than 15 degrees.
+2023-09-25 21:41:46,885.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:48,611.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:34:15,103.5
+2023-09-25 21:41:48,612.smoker-consumer-ch01.INFO Smoker alert at 05/22/21 12:34:15! Smoker temperature has dropped more than 15 degrees.
+2023-09-25 21:41:49,541.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:51,616.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:35:10,105.3
+2023-09-25 21:41:51,617.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:54,624.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:35:15,105.3
+2023-09-25 21:41:54,625.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:57,631.smoker-consumer-ch01.INFO  [x] Received 05/22/21 12:36:10,106.9
+2023-09-25 21:41:57,632.smoker-consumer-ch01.INFO  [x] Processed smoker temp.
+2023-09-25 21:41:58,542.smoker-consumer-ch01.WARNING  User interrupted continuous listening process.
