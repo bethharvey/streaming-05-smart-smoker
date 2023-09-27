@@ -54,12 +54,15 @@ def smoker_callback(ch, method, properties, body):
 
                 # check if any temperature changes are greater than 15 degrees
                 if any(value > 15 for value in temp_changes):
-                    logger.info(
-                        f"Smoker alert at {smoker_timestamp}! Smoker temperature has dropped more than 15 degrees."
-                    )
-                    email_subject = "Smoker Alert!"
-                    email_body = f"Smoker alert at {smoker_timestamp}! The smoker temperature has dropped more than 15 degrees in 2.5 minutes."
-                    createAndSendEmailAlert(email_subject, email_body)
+                    send_alert = True
+                    
+                    if send_alert:
+                        logger.info(
+                            f"Smoker alert at {smoker_timestamp}! Smoker temperature has dropped more than 15 degrees."
+                        )
+                        email_subject = "Smoker Alert!"
+                        email_body = f"Smoker alert at {smoker_timestamp}! The smoker temperature has dropped more than 15 degrees in 2.5 minutes."
+                        createAndSendEmailAlert(email_subject, email_body)
 
         # when done with task, tell the user
         logger.info(" [x] Processed smoker temp.")

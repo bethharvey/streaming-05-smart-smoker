@@ -81,3 +81,9 @@ See examples of the RabbitMQ queue monitor page, the running scripts, and the te
 
 #### Smoker Email Alert Example
 ![Smoker email alert](images/smoker-alert-email.png)
+
+#### Food A Email Alert Example
+![Food A email alert](images/food-A-alert-email.png)
+
+#### Food B Email Alert Example
+![Food B email alert](images/food-B-alert-email.png)

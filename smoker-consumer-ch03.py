@@ -46,18 +46,20 @@ def smoker_callback(ch, method, properties, body):
             FOOD_B_DEQUE.append(food_b_temp)
 
             # calculate difference in temp between most recent temp and temp 10 minutes ago
-            if len(FOOD_B_DEQUE) == 10:
-                temp_change = FOOD_B_DEQUE[9] - FOOD_B_DEQUE[0]
-
-                # check if temperature change is greater than 15 degrees
+            if len(FOOD_B_DEQUE) >= 20:
+                temp_change = FOOD_B_DEQUE[-1] - FOOD_B_DEQUE[0]
+                # check if temperature change is less than 1 degree
                 if abs(temp_change) < 1:
                     logger.info(
                         f"Food B Stall alert at {food_b_timestamp}! Food B temperature has changed less than 1 degree in 10 minutes ."
                     )
-                    # send email alert
-                    email_subject = 'Food B Temperature Alert!'
-                    email_body = f'Food B stall alert at {food_b_timestamp}! The temperature of Food B has changed less than 1 degree in 10 minutes.'
-                    createAndSendEmailAlert(email_subject, email_body)
+                    send_alert = True
+
+                    if send_alert:
+                        # send email alert
+                        email_subject = 'Food B Temperature Alert!'
+                        email_body = f'Food B stall alert at {food_b_timestamp}! The temperature of Food B has changed less than 1 degree in 10 minutes.'
+                        createAndSendEmailAlert(email_subject, email_body)
 
         # when done with task, tell the user
         logger.info(" [x] Processed Food B temp.")
